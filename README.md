@@ -1,4 +1,4 @@
-# Synthetic Biased Data Generation
+# Synthetic Biased Data Generation (SBDG)
 
 [Introducing a Family of Synthetic Datasets for Research on Bias in Machine Learning](https://arxiv.org/abs/2107.08928)
 
