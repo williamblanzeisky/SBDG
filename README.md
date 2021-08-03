@@ -1,4 +1,6 @@
-# Introducing a Family of Synthetic Datasets for Research on Bias in Machine Learning
+# Synthetic Biased Data Generation
+
+Introducing a Family of Synthetic Datasets for Research on Bias in Machine Learning
 
 Author: William Blanzeisky, Pádraig Cunningham
 
