@@ -1,6 +1,6 @@
 # Synthetic Biased Data Generation
 
-Introducing a Family of Synthetic Datasets for Research on Bias in Machine Learning
+[Introducing a Family of Synthetic Datasets for Research on Bias in Machine Learning](https://arxiv.org/abs/2107.08928)
 
 Author: William Blanzeisky, Pádraig Cunningham
 
